@@ -11,3 +11,5 @@ feature 2 commit 2
 change without type in commit message
 
 chore test
+
+chore test 2
