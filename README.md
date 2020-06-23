@@ -1,3 +1,3 @@
 # semantic-release-poc
 
-# major change
+# breaking change
