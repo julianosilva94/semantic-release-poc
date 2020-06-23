@@ -31,6 +31,10 @@
           {
             "type": "build",
             "release": "patch"
+          },
+          {
+            "type": "chore",
+            "release": "patch"
           }
         ]
       }
@@ -43,7 +47,7 @@
           "types": [
             {
               "type": "feat",
-              "section": ":sparkles: Novidades",
+              "section": ":sparkles: Funcionalidades",
               "hidden": false
             },
             {
@@ -83,7 +87,8 @@
             },
             {
               "type": "chore",
-              "hidden": true
+              "section": "Outros",
+              "hidden": false
             }
           ]
         }
