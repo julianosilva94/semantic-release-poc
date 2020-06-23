@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 12
       - name: Install deps
-        run: npm i -g conventional-changelog-conventionalcommits
+        run: npm i conventional-changelog-conventionalcommits
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
